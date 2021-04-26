@@ -55,6 +55,6 @@ In this project, we'll be making two classes, `Simulation.java` and `Driver.java
 
 `Driver.java` should contain two public methods:
 
-1. `static double calculateProbability(Simulation s, int trials)`: This static method should calculate the probability that a given `Simulation` succeeds over a certain amount of trials.
+1. `static double simulate(Simulation s, int trials)`: This static method should calculate the probability that a given `Simulation` succeeds over a certain amount of trials.
 2. `static void main(String[] args)`: The main method.
 
