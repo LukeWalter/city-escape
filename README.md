@@ -135,5 +135,5 @@ In this project, we'll be making two classes, `Simulation.java` and `Driver.java
     - [ ] Copy the skeleton code into your IDE of choice. Make sure to use the correct file names, and save them in the same folder so `Simulation.java` can be accessed from the driver.
 
 1. Implementation
-    - [ ] Start by implementing the methods from the `Simulation` class, beginning with the constructor. Use the `Driver` class to test them.
+    - [ ] Start by implementing the methods from the `Simulation` class, beginning with the constructor. Use the `main` method in `Driver.java` to test them.
     - [ ] Implement the static method in `Driver.java`.
