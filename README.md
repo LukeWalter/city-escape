@@ -91,7 +91,7 @@ In this project, we'll be making two classes, `Simulation.java` and `Driver.java
 `Driver.java`:
 
 ```java       
-   public class Simulation {
+   public class Driver {
     
         public static double simulate(Simulation s, int trials) {
             throw new UnsupportedOperationException("Implement simulate(Simulation, int)");
