@@ -84,6 +84,8 @@ In this project, we'll be making two classes, `Simulation.java` and `Driver.java
             throw new UnsupportedOperationException("Implement String toString()");
         
         } // toString
+        
+        // Add any needed private helper methods here (optional)
    
    } // Simulation
    ```
@@ -102,6 +104,8 @@ In this project, we'll be making two classes, `Simulation.java` and `Driver.java
             
         
         } // main
+        
+        // Add any needed private helper methods here (optional)
    
    } // Driver
    ```
