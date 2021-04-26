@@ -14,7 +14,7 @@ public class Driver {
 	
 	return (double)successes / (double) trials;
 	
-    } // getSuccessProbability
+    } // simulate
     
     public static void main(String[] args) {
 
