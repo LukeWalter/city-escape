@@ -63,9 +63,45 @@ In this project, we'll be making two classes, `Simulation.java` and `Driver.java
 `Simulation.java`:
 
 ```java       
-   public static void main(String[] args) {
-       Set<String> set = new TreeSet<String>(); // <--------- LINE2
-       set.add("hello"); // <-------------------------------- LINE3
-       System.out.println(set.first()); // <----------------- LINE4
-   } // main
+   public class Simulation {
+    
+        public Simulation(int numRows, int numCols) {
+            throw new UnsupportedOperationException("Implement Simulation(int, int)");
+        
+        } // Constructor
+        
+        public void reset() {
+            throw new UnsupportedOperationException("Implement void reset()");
+        
+        } // reset
+        
+        public boolean run() {
+            throw new UnsupportedOperationException("Implement boolean run()");
+        
+        } // run
+        
+        public String toString() {
+            throw new UnsupportedOperationException("Implement String toString()");
+        
+        } // toString
+   
+   } // Simulation
+   ```
+   
+`Driver.java`:
+
+```java       
+   public class Simulation {
+    
+        public static double simulate(Simulation s, int trials) {
+            throw new UnsupportedOperationException("Implement simulate(Simulation, int)");
+        
+        } // Constructor
+        
+        public static void main(String[] args) {
+            
+        
+        } // main
+   
+   } // Simulation
    ```
