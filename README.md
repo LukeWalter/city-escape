@@ -10,7 +10,7 @@ Our goal for this problem is to design a simulation that can model Madu's escape
 
 1. Madu's habitat is rectangular and can be represented by a two-dimensional grid. At the start of any test run, Madu should start at the center of the grid. 
 
-<img align="left" width="300" height="300" src="monkegrid1.PNG">
+<img align="center" width="300" height="300" src="monkegrid1.PNG">
 
 1. Madu's spatial intelligence is very low, so she aimlessly wanders the habitat in an attempt to escape. Additionally, she makes a mess as she mills about, dropping banana peels all over the place. To model this, we can break down her walking pattern into a series of moves. On a single move, Madu will do the following:
 
@@ -21,12 +21,12 @@ Madu will opt to move in a random direction each turn, but if there is a banana 
 
 Example:
 
-<img align="left" width="300" height="300" src="monkegrid2.PNG">
+<img align="center" width="300" height="300" src="monkegrid2.PNG">
 
 On this turn, Madu starts at the center of the grid. There are no banana peels in her path, so she is allowed to move up, down, left, or right. In this particular case, she happened to move up a square. A banana peel was placed in her original spot.
 
 Here's the next turn she takes:
 
-<img align="left" width="300" height="300" src="monkegrid3.PNG">
+<img align="center" width="300" height="300" src="monkegrid3.PNG">
 
 On this turn, the conditions are different. Madu can still move up, left, or right, but there is now a banana peel in the space below her. This prevents her from moving downwards. However, since she can still move in other directions, she randomly opts to move to the left. 
