@@ -9,4 +9,5 @@ Our goal for this problem is to design a simulation that can model Madu's escape
 ## Rules of the Simulation
 
 1. Madu's habitat will be represented by a two-dimensional grid. At the start of any test run, Madu should start at the center of the grid. 
+
 ![Monke Graph](monkegrid1.PNG)
