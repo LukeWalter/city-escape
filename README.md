@@ -58,3 +58,14 @@ In this project, we'll be making two classes, `Simulation.java` and `Driver.java
 1. `static double simulate(Simulation s, int trials)`: This static method should calculate the probability that a given `Simulation` succeeds over a certain amount of trials.
 2. `static void main(String[] args)`: The main method.
 
+### Project Skeleton
+
+`Simulation.java`:
+
+```java       
+   public static void main(String[] args) {
+       Set<String> set = new TreeSet<String>(); // <--------- LINE2
+       set.add("hello"); // <-------------------------------- LINE3
+       System.out.println(set.first()); // <----------------- LINE4
+   } // main
+   ```
