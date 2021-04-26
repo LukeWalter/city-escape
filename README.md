@@ -12,7 +12,7 @@ Our goal for this problem is to design a simulation that can model Madu's escape
 
 <img align="left" width="300" height="300" src="monkegrid1.PNG">
 
-2. Madu's spatial intelligence is very low, so she aimlessly wanders the habitat in an attempt to escape. Additionally, she makes a mess as she mills about, dropping banana peels all over the place. To model this, we can break down her walking pattern into a series of moves. On a single move, Madu will do the following:
+1. Madu's spatial intelligence is very low, so she aimlessly wanders the habitat in an attempt to escape. Additionally, she makes a mess as she mills about, dropping banana peels all over the place. To model this, we can break down her walking pattern into a series of moves. On a single move, Madu will do the following:
 
     1. Change her position by one square. She is allowed to move up, down, left, or right.
     2. Drop a banana peel in the spot she was in on her last turn.
