@@ -30,3 +30,11 @@ Our goal for this problem is to design a simulation that can model Madu's escape
     <img align="center" width="300" height="300" src="monkegrid3.PNG">
 
     On this turn, the conditions are different. Madu can still move up, left, or right, but there is now a banana peel in the space below her. This prevents her from moving downwards. However, since she can still move in other directions, she randomly opts to move to the left. 
+    
+1. In order to successfully escape her habitat, Madu must reach the edge of the grid. As responsible habitat designers, we have created hers such that there are no walls or obstructions between her and the outside world, so reaching the edge of the grid would constitute a successful escape attempt. Here's an example of what that may look like:
+
+    <img align="center" width="300" height="300" src="monkegrid4.PNG">
+
+    In order for her to fail, all of Madu's movement options must be eliminated by her own doing. If Madu is surrounded on all sides by banana peels, she won't be able to move to any of those spaces. Here's an example of what that may look like:
+    
+    <img align="center" width="300" height="300" src="monkegrid5.PNG">
