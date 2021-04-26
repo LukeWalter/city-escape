@@ -59,15 +59,15 @@ In this project, we'll be making two classes, `Simulation.java` and `Driver.java
 
 `Simulation.java` should contain four public methods:
 
-1.  `Simulation(int numRows, int numCols)`: A constructor for the simulation grid. `numRows` denotes the number of rows in your grid, and `numCols` denotes the number of columns. When called, it creates a new instance of the `Simulation` class containing a grid based on these requirements.
-2.  `void reset()`: This instance method should clear any banana peels from your grid and move Madu back to the center.
-3.  `boolean run()`: This instance method should run a single trial of the simulation, returning `true` if Madu escapes and `false` if she fails.
-4.  `String toString()`: This instance method should return a `String` representation of the current instance. 
+*  `Simulation(int numRows, int numCols)`: A constructor for the simulation grid. `numRows` denotes the number of rows in your grid, and `numCols` denotes the number of columns. When called, it creates a new instance of the `Simulation` class containing a grid based on these requirements.
+*  `void reset()`: This instance method should clear any banana peels from your grid and move Madu back to the center.
+*  `boolean run()`: This instance method should run a single trial of the simulation, returning `true` if Madu escapes and `false` if she fails.
+*  `String toString()`: This instance method should return a `String` representation of the current instance. 
 
 `Driver.java` should contain two public methods:
 
-1. `static double simulate(Simulation s, int trials)`: This static method should calculate the probability that a given `Simulation` succeeds over a certain amount of trials.
-2. `static void main(String[] args)`: The main method.
+* `static double simulate(Simulation s, int trials)`: This static method should calculate the probability that a given `Simulation` succeeds over a certain amount of trials.
+* `static void main(String[] args)`: The main method.
 
 ### Project Skeleton
 
