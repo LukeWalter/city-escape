@@ -2,6 +2,8 @@
 
 <img align="center" width="600" height="600" src="orangutanbutfunny.PNG">
 
+This document contains the description for a practice project.
+
 ## Table of Contents
 * [Problem Description](#problem-description)
 * [Rules of the Simulation](#rules-of-the-simulation)
