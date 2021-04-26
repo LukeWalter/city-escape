@@ -65,6 +65,8 @@ In this project, we'll be making two classes, `Simulation.java` and `Driver.java
 ```java       
    public class Simulation {
     
+        // Add any needed private instance variables here
+    
         public Simulation(int numRows, int numCols) {
             throw new UnsupportedOperationException("Implement Simulation(int, int)");
         
