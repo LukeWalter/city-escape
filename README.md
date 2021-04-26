@@ -137,3 +137,10 @@ In this project, we'll be making two classes, `Simulation.java` and `Driver.java
 1. Implementation
     - [ ] Start by implementing the methods from the `Simulation` class, beginning with the constructor. Use the `main` method in `Driver.java` to test them.
     - [ ] Implement the static method in `Driver.java`.
+
+1. Documentation
+    - [ ] Add comments to each method. Include:
+    * Brief description of the method
+    * Brief description of each input parameter
+    * Brief description of the output
+    * Inline comments describing confusing/long blocks of code
