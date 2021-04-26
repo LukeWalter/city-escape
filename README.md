@@ -2,7 +2,7 @@
 
 <img align="center" width="600" height="600" src="orangutanbutfunny.PNG">
 
-This document contains the description for a practice project.
+This document contains the description for a practice project. A working implementation of the project is available in this repository.
 
 ## Table of Contents
 * [Problem Description](#problem-description)
