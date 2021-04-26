@@ -103,7 +103,6 @@ public class Simulation {
 
     } // run
     
-    
     public String toString() {
 
 	String result = "";
