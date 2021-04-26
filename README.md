@@ -63,6 +63,7 @@ In this project, we'll be making two classes, `Simulation.java` and `Driver.java
 `Simulation.java`:
 
 ```java       
+   // Add any needed imports here (optional)
    public class Simulation {
     
         // Add any needed private instance variables here
@@ -95,6 +96,8 @@ In this project, we'll be making two classes, `Simulation.java` and `Driver.java
 `Driver.java`:
 
 ```java       
+   // Add any needed imports here (optional)
+   
    public class Driver {
     
         public static double simulate(Simulation s, int trials) {
