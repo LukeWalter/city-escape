@@ -103,5 +103,5 @@ In this project, we'll be making two classes, `Simulation.java` and `Driver.java
         
         } // main
    
-   } // Simulation
+   } // Driver
    ```
