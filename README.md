@@ -9,6 +9,7 @@ This document contains the description for a practice project.
 * [Rules of the Simulation](#rules-of-the-simulation)
 * [Functional Requirements](#functional-requirements)
 * [Project Skeleton](#project-skeleton)
+* [Suggested Checklist](#suggested-checklist)
 
 ## Problem Description
 
