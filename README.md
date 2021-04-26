@@ -125,3 +125,14 @@ In this project, we'll be making two classes, `Simulation.java` and `Driver.java
    
    } // Driver
    ```
+
+## Suggested Checklist
+
+1. Preparation
+- [ ] Read the entire project description, writing down questions as you go.
+- [ ] Read through it again!
+- [ ] Copy the skeleton code into your IDE of choice. Make sure to use the correct file names, and save them in the same folder so `Simulation.java` can be accessed from the driver.
+
+1. Implementation
+- [ ] Start by implementing the methods from the `Simulation` class, beginning with the constructor. Use the `Driver` class to test them.
+- [ ] Implement the static method in `Driver.java`.
