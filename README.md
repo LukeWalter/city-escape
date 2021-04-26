@@ -2,6 +2,12 @@
 
 <img align="center" width="600" height="600" src="orangutanbutfunny.PNG">
 
+## Table of Contents
+* [Problem Description](#problem-description)
+* [Rules of the Simulation](#rules-of-the-simulation)
+* [Functional Requirements](#functional-requirements)
+* [Project Skeleton](#project-skeleton)
+
 ## Problem Description
 
 Shenanigans are afoot at the Atlanta Zoo! A new shipment of bananas is being brought in to supply food to all of the primate exhibits. Since the zookeepers are asleep, Madu the orangutan is making an attempt to escape from her habitat and hijack the operation so she can hoard them all for her fellow orangutans. This is a morally questionable thing for Madu to do, so it is our job as habitat designers to make the likelihood of her success as low as possible.
