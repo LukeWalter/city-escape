@@ -64,6 +64,7 @@ In this project, we'll be making two classes, `Simulation.java` and `Driver.java
 
 ```java       
    // Add any needed imports here (optional)
+   
    public class Simulation {
     
         // Add any needed private instance variables here
